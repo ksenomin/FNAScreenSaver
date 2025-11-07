@@ -9,9 +9,17 @@
 
   <ItemGroup>
     <Folder Include="Models\" />
-    <Folder Include="Content\" />
     <Folder Include="AppConstants\" />
     <Folder Include="Core\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Content\Snowflake3.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Content\snowyVillage.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
