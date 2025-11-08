@@ -1,12 +1,11 @@
-﻿
-namespace FNAScreenSaver.AppConstants
+﻿namespace FNAScreenSaver.AppConstants
 {
     /// <summary>
     /// Константы приложения
     /// </summary>
     public class Constants
     {
-        // <summary>
+        /// <summary>
         /// Количество снежинок
         /// </summary>
         public const int Count = 1000;

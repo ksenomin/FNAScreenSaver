@@ -5,7 +5,7 @@ namespace FNAScreenSaver
     /// <summary>
     /// Класс запуска программы
     /// </summary>
-    static class Program
+    public static class Program
     {
         /// <summary>
         /// Точка входа программы

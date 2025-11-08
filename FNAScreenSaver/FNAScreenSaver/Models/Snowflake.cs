@@ -44,7 +44,7 @@ namespace FNAScreenSaver.Models
         }
 
         /// <summary>
-        /// Здесь задаются параметры снежинки - скорость, прозрачность
+        /// Здесь задаются параметры снежинки
         /// </summary>
         public void Reset(int startPosition)
         {
